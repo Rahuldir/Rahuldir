@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""f1-car.gif" alt="F1 Car Racing Left to Right" width="100%" />
+  <img src="https://media.tenor.com/mOtwM0m2fRMAAAAC/max-verstappen-red-bull-racing.gif" alt="F1 Car with Flipping Wings (DRS)" width="100%" />
 </p>
 
 <h1 align="center">🏎️ Hi 👋, I'm Sarvesh Yadav</h1>
