@@ -1,40 +1,45 @@
-<h1 align="center">Hi 👋, I'm Sarvesh Yadav</h1>
-<h3 align="center">Software Developer | Web & Mobile Apps</h3>
+<p align="center">
+  <img src="watermarked_img_360200133084019233.png" alt="F1 Car Racing Left to Right" width="100%" />
+</p>
+
+<h1 align="center">🏎️ Hi 👋, I'm Sarvesh Yadav</h1>
+<h3 align="center">🏁 Software Developer | Turning Caffeine into Lap Times ⏱️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Building+Web+%26+Mobile+Apps;Exploring+New+Technologies" alt="Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF1801&center=true&vCenter=true&width=460&lines=Full-Throttle+Developer;Building+Interactive+Web+UIs;Chasing+the+Apex+in+Code" alt="F1 Terminal Typing SVG" />
 </p>
 
 ---
 
-### ⚡ About
+### ⚡ Driver Bio
 
 ```yaml
-name: Sarvesh Yadav
-role: Software Developer
-learning: [Web & Mobile Apps, 3D Web UI (Three.js), Open-Source Android]
-location: New Delhi, India
-mindset: build → break → understand → rebuild
+driver: "Sarvesh Yadav"
+github: "Rahuldir"
+team_role: "Software Developer"
+studying: [Web & Mobile Apps, 3D Web UI (Three.js), Android Eng.]
+base: "New Delhi, India"
+race_mindset: "Push → Analyze → Optimize → Repeat 🏁"
 ```
 
-### 🧬 What I'm Up To
+### 🧬 Telemetry Scorecard (What I'm Up To)
 
-🎨 **Frontend & Web**
-Building responsive, animated UIs, interactive Three.js 3D elements, and telemetry scorecards for cricket applications.
+🔴 **Aerodynamics & Frontend**
+Crafting responsive, animated user interfaces, 3D interactive experiences using **Three.js**, and designing real-time data & telemetry scorecards for cricket systems.
 
-🗄️ **Software & Apps**
-Exploring open-source Android development, custom audio equalizers, and spatial audio tools.
+⚙️ **Internal Mechanics & Applications**
+Designing and experimenting with open-source Android utilities, custom audio equalizers, and spatial audio performance.
 
-🌱 **Background**
-B.Tech in Civil Engineering turned passionate software developer. 
+🌱 **Driver Academy**
+B.Tech in Civil Engineering turned self-taught developer, scaling up in software at racing speed.
 
-### 🧠 Tech Stack
+### 🧠 Performance & Engine Setup (Tech Stack)
 
 <details>
-<summary><b>📈 Skill confidence (click to expand)</b></summary>
+<summary><b>🏎️💨 Engine Config & Skill confidence (click to expand)</b></summary>
 <br>
 
-React.js        ████████████████░░░░ 80%
+React.js        ████████████████░░░░ 80% (High Downforce)
 JavaScript      ████████████████░░░░ 80%
 HTML/CSS        ██████████████████░░ 90%
 Three.js / 3D   ████████████░░░░░░░░ 60%
@@ -44,16 +49,16 @@ Node.js         ██████████░░░░░░░░░░ 50%
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Driver Analytics
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rahuldir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahuldir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rahuldir&show_icons=true&theme=redical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahuldir&layout=compact&theme=redical&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Sector Times (Contribution Snake)
 
 <p align="center">
   <picture>
@@ -65,7 +70,7 @@ Node.js         ██████████░░░░░░░░░░ 50%
 
 ---
 
-### 📡 Let's Connect
+### 📡 Let's Connect in the Paddock
 
 <p align="left">
   <a href="mailto:your_email@gmail.com">
