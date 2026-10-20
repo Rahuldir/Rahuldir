@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:141414,100:E10600&height=120&section=header&text=SARVESH%20YADAV%20%F0%9F%8F%8E%EF%B8%8F&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%" />
+
 <h1 align="center">🏎️ Hi 👋, I'm Sarvesh Yadav</h1>
 <h3 align="center">🏁 Software Developer | Web, 3D UI & Mobile Apps</h3>
 
@@ -7,20 +9,20 @@
 
 <p align="center">
   <a href="https://github.com/Rahuldir">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%23181717?style=for-the-badge&logo=linkedin&logoColor=E10600" />
+  <a href="https://www.linkedin.com/in/sarvesh-yadav-88167a1a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=E10600" />
   </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23E10600?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:Sarveshbhu12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rahuldir&label=PADDOCK+VIEWS&color=E10600&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DRS-ENABLED-121011?style=for-the-badge&logo=formula1&logoColor=E10600" />
-  <img src="https://img.shields.io/badge/STATUS-RACING-E10600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CHASSIS-CARBON_FIBER-111111?style=for-the-badge&logo=formula1&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/DRS-ENABLED-E10600?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -36,6 +38,8 @@ driver: Sarvesh Yadav
 github: Rahuldir
 role: Software Developer
 learning: [Web & Mobile Apps, 3D Web UI (Three.js), Open-Source Android]
+email: Sarveshbhu12@gmail.com
+linkedin: [linkedin.com/in/sarvesh-yadav-88167a1a5](https://linkedin.com/in/sarvesh-yadav-88167a1a5)
 location: New Delhi, India
 mindset: push → analyze → optimize → rebuild 🏁
 ```
@@ -49,7 +53,7 @@ mindset: push → analyze → optimize → rebuild 🏁
 <td valign="top" width="50%">
 
 **🏎️ Frontend & 3D Web**
-> Building responsive, animated UIs with React, Three.js & real-time cricket telemetry scorecards
+> Building responsive, animated UIs with React, Svelte, Three.js & real-time cricket telemetry scorecards
 
 **🗄️ Architecture & Data**
 > Designing clean state management and fast backend schemas
@@ -72,7 +76,7 @@ mindset: push → analyze → optimize → rebuild 🏁
 ## 🧠 Engine Setup (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,tailwind,nodejs,python,androidstudio,git,github,linux,vscode&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,svelte,threejs,tailwind,nodejs,python,androidstudio,git,github,linux,vscode&theme=dark&perline=7" />
 </p>
 
 <details open>
@@ -80,32 +84,32 @@ mindset: push → analyze → optimize → rebuild 🏁
 <br>
 
 ```text
-React.js        ████████████████░░░░ 80%  [High Downforce]
 HTML / CSS      ██████████████████░░ 90%  [Aero Efficiency]
 JavaScript      ████████████████░░░░ 80%  [ERS Deployed]
+React / Svelte  ████████████████░░░░ 80%  [High Downforce]
 Three.js / 3D   ████████████░░░░░░░░ 60%  [Telemetry UI]
 Node.js         ██████████░░░░░░░░░░ 50%  [Power Unit]
-Android / App   ████████░░░░░░░░░░░░ 40%  [Chassis Tuning]
+Python          ████████░░░░░░░░░░░░ 40%  [Chassis Tuning]
 ```
 
 </details>
 
 ---
 
-## 📊 Driver Analytics (GitHub Stats)
+## 📊 Driver Analytics (Carbon Telemetry)
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahuldir&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E10600&icon_color=E10600&text_color=c9d1d9" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahuldir&theme=dark&hide_border=true&background=0d1117&ring=E10600&fire=FF1801&currStreakLabel=E10600" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahuldir&show_icons=true&theme=dark&hide_border=false&border_color=222222&bg_color=0a0a0a&title_color=E10600&icon_color=E10600&text_color=e5e5e5" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahuldir&theme=dark&hide_border=false&border=222222&background=0a0a0a&ring=E10600&fire=FF1801&currStreakLabel=E10600" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahuldir&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E10600&text_color=c9d1d9" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahuldir&theme=darkhub&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahuldir&layout=compact&theme=dark&hide_border=false&border_color=222222&bg_color=0a0a0a&title_color=E10600&text_color=e5e5e5" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahuldir&theme=2077" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahuldir&theme=react-dark&hide_border=true&bg_color=0d1117&color=E10600&line=E10600&point=ffffff" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahuldir&theme=2077" width="96%" />
 </p>
 
 ---
@@ -121,11 +125,14 @@ Android / App   ████████░░░░░░░░░░░░ 40%
 ## 📡 Let's Connect in the Paddock
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:Sarveshbhu12@gmail.com">
     <img src="https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/sarvesh-yadav-88167a1a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E10600" />
+  </a>
   <a href="https://github.com/Rahuldir">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -133,4 +140,4 @@ Android / App   ████████░░░░░░░░░░░░ 40%
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=E10600&center=true&vCenter=true&width=460&lines=root%40sarvesh%3A~%24+box+box;Thanks+for+stopping+by+the+pit+lane+%F0%9F%8F%81;Let's+build+something+fast+together+%F0%9F%8F%8E%EF%B8%8F" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1f1f1f,100:E10600&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:141414,100:E10600&height=150&section=footer" width="100%" />
