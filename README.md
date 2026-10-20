@@ -1,86 +1,136 @@
+<h1 align="center">🏎️ Hi 👋, I'm Sarvesh Yadav</h1>
+<h3 align="center">🏁 Software Developer | Web, 3D UI & Mobile Apps</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=E10600&background=0D111700&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8F%8E%EF%B8%8F%F0%9F%92%A8+LIGHTS+OUT+AND+AWAY+WE+GO!;%F0%9F%8F%81+DRS+ENABLED+%E2%80%94+FULL+THROTTLE+CODING;%E2%8F%B1%EF%B8%8F+SETTING+PURPLE+SECTORS+IN+WEB+%26+MOBILE" alt="F1 Racing Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=E10600&center=true&vCenter=true&width=600&height=100&lines=root%40sarvesh%3A~%24+whoami;%3E+Full-Throttle+Developer;root%40sarvesh%3A~%24+cat+telemetry_focus.txt;%3E+3D+Web+UI+%2B+Open-Source+Android" alt="Terminal Typing SVG" />
 </p>
 
-<h1 align="center">🏎️ Hi 👋, I'm Sarvesh Yadav</h1>
-<h3 align="center">🏁 Software Developer | Turning Caffeine into Lap Times ⏱️</h3>
+<p align="center">
+  <a href="https://github.com/Rahuldir">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%23181717?style=for-the-badge&logo=linkedin&logoColor=E10600" />
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23E10600?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/F1_Telemetry-Active-E10600?style=for-the-badge&logo=formula1&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRS-AVAILABLE-00D2BE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tyres-Soft_(C5)-FF1801?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Rahuldir&label=PADDOCK+VIEWS&color=E10600&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DRS-ENABLED-121011?style=for-the-badge&logo=formula1&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/STATUS-RACING-E10600?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
 </p>
 
 ---
 
-### ⚡ Driver Bio
+## ⚡ Driver Telemetry (About)
 
 ```yaml
-driver: "Sarvesh Yadav"
-github: "Rahuldir"
-team_role: "Software Developer"
-studying: [Web & Mobile Apps, 3D Web UI (Three.js), Android Eng.]
-base: "New Delhi, India"
-race_mindset: "Push → Analyze → Optimize → Repeat 🏁"
+driver: Sarvesh Yadav
+github: Rahuldir
+role: Software Developer
+learning: [Web & Mobile Apps, 3D Web UI (Three.js), Open-Source Android]
+location: New Delhi, India
+mindset: push → analyze → optimize → rebuild 🏁
 ```
 
 ---
 
-### 🧬 Telemetry Scorecard (What I'm Up To)
+## 🧬 What I'm Up To
 
-🔴 **Aerodynamics & Frontend**
-Crafting responsive, animated user interfaces, 3D interactive experiences using **Three.js**, and designing real-time data & telemetry scorecards for cricket systems.
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-⚙️ **Internal Mechanics & Applications**
-Designing and experimenting with open-source Android utilities, custom audio equalizers, and spatial audio performance.
+**🏎️ Frontend & 3D Web**
+> Building responsive, animated UIs with React, Three.js & real-time cricket telemetry scorecards
 
-🌱 **Driver Academy**
-B.Tech in Civil Engineering turned self-taught developer, scaling up in software at racing speed.
+**🗄️ Architecture & Data**
+> Designing clean state management and fast backend schemas
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Android & Audio Tools**
+> Building open-source Android utilities, custom equalizers & spatial audio tools
+
+**🌱 Driver Academy**
+> B.Tech in Civil Engineering turned full-throttle software developer
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Performance & Engine Setup (Tech Stack)
+## 🧠 Engine Setup (Tech Stack)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,tailwind,nodejs,python,androidstudio,git,github,linux,vscode&theme=dark&perline=7" />
+</p>
 
 <details open>
-<summary><b>🏎️💨 Engine Config & Skill Confidence (Click to toggle)</b></summary>
+<summary>🏎️💨 <b>Engine Config & Skill Confidence (click to expand)</b></summary>
 <br>
 
 ```text
-React.js        ████████████████░░░░  80%  [High Downforce]
-JavaScript      ████████████████░░░░  80%  [ERS Deployed]
-HTML / CSS      ██████████████████░░  90%  [Aero Efficiency]
-Three.js / 3D   ████████████░░░░░░░░  60%  [Telemetry UI]
-Node.js         ██████████░░░░░░░░░░  50%  [Power Unit]
+React.js        ████████████████░░░░ 80%  [High Downforce]
+HTML / CSS      ██████████████████░░ 90%  [Aero Efficiency]
+JavaScript      ████████████████░░░░ 80%  [ERS Deployed]
+Three.js / 3D   ████████████░░░░░░░░ 60%  [Telemetry UI]
+Node.js         ██████████░░░░░░░░░░ 50%  [Power Unit]
+Android / App   ████████░░░░░░░░░░░░ 40%  [Chassis Tuning]
 ```
 
 </details>
 
 ---
 
-### 📊 Driver Analytics & Lap Streak
+## 📊 Driver Analytics (GitHub Stats)
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rahuldir&theme=dark&hide_border=true&ring=E10600&fire=FF1801&currStreakLabel=E10600" alt="Sarvesh's GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahuldir&show_icons=true&theme=dark&hide_border=true&title_color=E10600&icon_color=FF1801" alt="Sarvesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahuldir&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E10600&icon_color=E10600&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahuldir&theme=dark&hide_border=true&background=0d1117&ring=E10600&fire=FF1801&currStreakLabel=E10600" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahuldir&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E10600&text_color=c9d1d9" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahuldir&theme=darkhub&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahuldir&theme=react-dark&hide_border=true&bg_color=0d1117&color=E10600&line=E10600&point=ffffff" width="96%" />
 </p>
 
 ---
 
-### 📈 Live Telemetry (Contribution Graph)
+## 🐍 Sector Times (Contribution Snake)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahuldir&bg_color=0d1117&color=ffffff&line=e10600&point=ff1801&area=true&hide_border=true" alt="Rahuldir's Telemetry Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-### 📡 Let's Connect in the Paddock
+## 📡 Let's Connect in the Paddock
 
-<p align="left">
+<p align="center">
   <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/Rahuldir">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=E10600&center=true&vCenter=true&width=460&lines=root%40sarvesh%3A~%24+box+box;Thanks+for+stopping+by+the+pit+lane+%F0%9F%8F%81;Let's+build+something+fast+together+%F0%9F%8F%8E%EF%B8%8F" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1f1f1f,100:E10600&height=150&section=footer" width="100%" />
