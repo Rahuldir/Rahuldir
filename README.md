@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="watermarked_img_360200133084019233.png" alt="F1 Car Racing Left to Right" width="100%" />
+  <img src=""f1-car.gif" alt="F1 Car Racing Left to Right" width="100%" />
 </p>
 
 <h1 align="center">🏎️ Hi 👋, I'm Sarvesh Yadav</h1>
